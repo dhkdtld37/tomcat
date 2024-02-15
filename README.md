@@ -1,4 +1,4 @@
-## Welcome to Apache Tomcat!
+## Welcome to Super Tomcat!
 
 ### What Is It?
 
